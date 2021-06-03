@@ -9,6 +9,6 @@
 .spinner_area:hover {
   color: red;
 }
-.spinner_area input{
+.spinner_area {
   text-align: center;
-}
+  }
