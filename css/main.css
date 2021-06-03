@@ -1,0 +1,14 @@
+.spinner_area p{
+	display: flex;  /* defaults to row layout */
+	justify-content: center;  /* centers items horizontally in row layout */
+	align-items: center;  /* centers vertically in row layout */
+	/* flex-direction: column; will set layout to column instead of row */
+  color: black;
+  font-size: 20px;
+}
+.spinner_area:hover {
+  color: red;
+}
+.spinner_area input{
+  text-align: center;
+}
